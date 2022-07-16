@@ -777,7 +777,7 @@ a:focus {
   display: -ms-flexbox;
   display: flex;
   padding: 0 15px;
-  margin-top: 45px;
+  margin-top: 3px;
 }
 
 .client_section .owl-carousel .owl-nav .owl-prev,
