@@ -229,6 +229,7 @@ a:focus {
   height: 4px;
   background-color: #ffffff;
   margin: 7px 0;
+  margin-left: 10px;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
   position: relative;
