@@ -114,7 +114,7 @@
 @media (max-width: 576px){
 .info_section .info_col {
   display: flex;
-  margin-left: 50px;
+  
 
 }
 }
@@ -125,8 +125,8 @@
 }
 @media (max-width: 576px){
   #boxes .containers .box{
-    max-width: 70%;
-    display: flex;
+    max-width: 100%;
+    display: block;
     margin: 0 auto;
 
   }
