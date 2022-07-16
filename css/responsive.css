@@ -133,3 +133,10 @@
 
   }
 }
+@media (max-width: 576px){
+.navbar-brand span {
+  font-weight: bold;
+  font-size: 21px;
+  color: #fff;
+}
+}
