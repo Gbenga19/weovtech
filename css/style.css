@@ -914,6 +914,7 @@ a:focus {
 
 .info_section .info_col {
   display: flex;
+  margin: 0 auto;
    
 
   
